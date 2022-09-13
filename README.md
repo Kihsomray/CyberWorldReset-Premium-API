@@ -1,4 +1,4 @@
-![CWR Premium](https://dev.zerotoil.net/cyberworldreset-premium/images/CWR_Prototype_2022_Logo_Colored.png)
+<img src="https://dev.zerotoil.net/cyberworldreset-premium/images/CWR_Prototype_2022_Logo_Colored.png" width="250" height="250"></img>
 # CyberWorldReset Premium API
 Access tools regarding CWR Premium. Useful for developers who want to integrate it into their SpigotMC plugins.
 
