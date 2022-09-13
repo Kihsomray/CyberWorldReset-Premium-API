@@ -1,8 +1,6 @@
 <img src="https://dev.zerotoil.net/cyberworldreset-premium/images/CWR_Prototype_2022_Logo_Colored.png" width="250" height="250"></img>
 # CyberWorldReset Premium API
-Access tools regarding CWR Premium. Useful for developers who want to integrate it into their SpigotMC plugins.
-
-Please note that this is **not a plugin!** It is an API for a plugin.
+Access tools regarding CWR Premium. Useful for developers who want to integrate it into their SpigotMC plugins. Please note that this is **not a plugin!** It is an API for a plugin.
 
 Requires at least Java 8 to compile, project SDK must be at least Java 17.
 
@@ -59,3 +57,6 @@ dependencies {
     implementation 'com.github.Kihsomray:CyberWorldReset-Premium-API:RELEASE_TAG'
 }
 ```
+
+## Documentation
+Access the Javadoc [here](https://dev.zerotoil.net/cyberworldreset-premium/api/).
